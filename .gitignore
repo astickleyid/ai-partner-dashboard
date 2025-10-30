@@ -7,3 +7,4 @@ __pycache__/
 .DS_Store
 capabilities.csv
 memory_stack.csv
+auth.json
